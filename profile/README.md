@@ -1,4 +1,4 @@
-# 🧩 Project Development Hub
+# 🧩 Projects Development Hub
 
 Bienvenido al **Projects Development Hub** de **intellbits**.  
 Este espacio centraliza el desarrollo, mantenimiento y coordinación de todos nuestros proyectos internos de software.
@@ -58,4 +58,4 @@ Indicaciones sobre cómo participar, crear issues, abrir PRs y mantener estánda
 
 ---
 
-# 💙 Gracias por ser parte del desarrollo de proyectos en intellbits. 🚀 
+# 💙 Gracias por ser parte del desarrollo de proyectos en intellbits.
